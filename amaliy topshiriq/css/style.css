@@ -1,0 +1,30 @@
+nav{
+     text-align: right;
+     width: 95%;
+     margin: auto;
+}
+nav a{
+     color: black;
+     padding: 0 5px 0;
+     text-decoration: none;
+}
+.avatar{
+     display: inline-block;
+     width: 30px;
+     height: 30px;
+     border-radius: 50%;
+     background-image: url(../images/images.jpg);
+     background-size: cover;
+}
+.searchbar{
+     align-items: center;
+     margin-top: 30px;
+     padding: 5px;
+     width: max-content;
+     border: 1px solid black;
+     border-radius: 50px;
+}
+.width{
+     height: 25px;
+     width: 25px;
+}
